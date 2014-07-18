@@ -13,7 +13,7 @@ Parce result from a rules: $parce->parse($rules, $encode_result)
 Rules array example:
 
 $rules = array(
-    'name' =>         '#<h1 class="moviename-big" itemprop="name">(.*?)</h1>#si',
+    'name' =>'#<h1 class='moviename-big' itemprop='name'>(.*?)</h1>#si',
  );
  
 This array for search the film name
