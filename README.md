@@ -1,7 +1,7 @@
 Kinopoisk-Parser
 ================
 
-It's a php class for parse movie info from the site kinopoisk.ru
+It's a php class for parse a movie info from the site kinopoisk.ru
 
 How to use:
 
